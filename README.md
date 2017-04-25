@@ -39,3 +39,8 @@ myApp.controller('homeCtrl', ['$scope', function ($scope) {
     }, {
     ....
 ```
+### Example
+Please refer following plunkr.
+```
+http://plnkr.co/edit/ODjlD4SZKB6yG7XTY5Ap?p=preview
+```
