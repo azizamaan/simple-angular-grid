@@ -1,5 +1,5 @@
 /*
- * Created by Anaab on 27-01-2017.
+ * Created by Amaan on 27-01-2017.
  * */
 var dataGrid = angular.module('dataGrid', []);
 //Directive for displaying Data Grid
